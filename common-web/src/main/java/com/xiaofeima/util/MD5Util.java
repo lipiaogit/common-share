@@ -1,4 +1,4 @@
-package com.shengsu.util;
+package com.xiaofeima.util;
 
 import java.security.MessageDigest;
 

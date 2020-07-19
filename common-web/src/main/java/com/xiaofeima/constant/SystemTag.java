@@ -1,4 +1,4 @@
-package com.shengsu.constant;
+package com.xiaofeima.constant;
 
 /**
  * 系统标签

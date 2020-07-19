@@ -1,4 +1,4 @@
-package com.shengsu.util;
+package com.xiaofeima.util;
 
 import org.apache.log4j.Logger;
 

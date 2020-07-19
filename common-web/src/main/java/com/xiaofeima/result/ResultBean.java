@@ -1,4 +1,4 @@
-package com.shengsu.result;
+package com.xiaofeima.result;
 
 import java.io.Serializable;
 
